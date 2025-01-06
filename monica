@@ -1,20 +1,19 @@
 [
     {
         "domain": ".monica.im",
-        "expirationDate": 1767485810,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_clck",
         "path": "/",
         "sameSite": null,
         "secure": false,
-        "session": false,
+        "session": true,
         "storeId": null,
-        "value": "1s8nha9%7C2%7Cfsa%7C0%7C1829"
+        "value": "lxb0fd%7C2%7Cfsc%7C0%7C1832"
     },
     {
         "domain": ".monica.im",
-        "expirationDate": 1770509927.57127,
+        "expirationDate": 1770727296.592515,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga_E249CNSDCV",
@@ -23,7 +22,7 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GS1.1.1735949808.2.1.1735949927.0.0.0"
+        "value": "GS1.1.1736165999.1.1.1736167296.0.0.0"
     },
     {
         "domain": "monica.im",
@@ -39,7 +38,7 @@
     },
     {
         "domain": "monica.im",
-        "expirationDate": 1770509927.092821,
+        "expirationDate": 1770727296.436318,
         "hostOnly": true,
         "httpOnly": false,
         "name": "wcs_bt",
@@ -48,11 +47,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "s_ce3bbc0e51c:1735949927"
+        "value": "s_ce3bbc0e51c:1736167296"
     },
     {
         "domain": ".monica.im",
-        "expirationDate": 1743725928,
+        "expirationDate": 1743943297,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_fbp",
@@ -61,11 +60,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "fb.1.1735924237695.92344192674019048"
+        "value": "fb.1.1736166000608.68939389982129405"
     },
     {
         "domain": ".monica.im",
-        "expirationDate": 1736036211,
+        "expirationDate": 1736253698,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_clsk",
@@ -74,11 +73,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "1bj432v%7C1735949811347%7C1%7C0%7Ck.clarity.ms%2Fcollect"
+        "value": "15jmry9%7C1736167298154%7C8%7C0%7Cz.clarity.ms%2Fcollect"
     },
     {
         "domain": ".monica.im",
-        "expirationDate": 1770509927.08576,
+        "expirationDate": 1770727296.430031,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_fwb",
@@ -87,11 +86,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "205WG5JDnmvBw7COZetxE3m.1735924236647"
+        "value": "10c9YTs0SzJi4n5omqv7xg.1736165999279"
     },
     {
         "domain": ".monica.im",
-        "expirationDate": 1770509927.590993,
+        "expirationDate": 1770727296.598925,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga",
@@ -100,11 +99,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GA1.1.2130536207.1735924237"
+        "value": "GA1.1.109185929.1736165999"
     },
     {
         "domain": ".monica.im",
-        "expirationDate": 1770509928.042907,
+        "expirationDate": 1770727296.604544,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga_JDZPETSM4F",
@@ -113,11 +112,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GS1.1.1735949808.2.1.1735949928.0.0.0"
+        "value": "GS1.1.1736165999.1.1.1736167296.0.0.0"
     },
     {
         "domain": ".monica.im",
-        "expirationDate": 1770509928.500083,
+        "expirationDate": 1770727297.108064,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga_RJYZXDEM8N",
@@ -126,11 +125,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GS1.1.1735949808.2.1.1735949928.59.0.1489609746"
+        "value": "GS1.1.1736165999.1.1.1736167297.16.0.1176792970"
     },
     {
         "domain": ".monica.im",
-        "expirationDate": 1743700237,
+        "expirationDate": 1743941999,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_gcl_au",
@@ -139,7 +138,7 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "1.1.667917973.1735924237"
+        "value": "1.1.1347021616.1736165999"
     },
     {
         "domain": ".monica.im",
@@ -151,11 +150,11 @@
         "secure": false,
         "session": true,
         "storeId": null,
-        "value": "1735924248556.be17137c-0b10-442e-8a97-e27e4b9d4a25"
+        "value": "1736166002384.d21053b0-cacb-4bf7-a4ad-1aabe3311acc"
     },
     {
         "domain": ".monica.im",
-        "expirationDate": 1736036328,
+        "expirationDate": 1736253697,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_uetsid",
@@ -164,11 +163,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "a6d72930c9f511efbee57df5d866cb26|5g7tms|2|fsa|0|1829"
+        "value": "8c39cbe0cc2811ef9ac44d6789652173|m6myib|2|fsc|0|1832"
     },
     {
         "domain": ".monica.im",
-        "expirationDate": 1769645928,
+        "expirationDate": 1769863298,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_uetvid",
@@ -177,7 +176,7 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "a6d71fc0c9f511efba035f112471bee1|181z5a0|1735949810406|1|1|bat.bing.com/p/insights/c/j"
+        "value": "8c39d540cc2811efb911254c71c4f316|c5g588|1736167298027|7|1|bat.bing.com/p/insights/c/z"
     },
     {
         "domain": ".monica.im",
@@ -201,7 +200,7 @@
         "secure": false,
         "session": true,
         "storeId": null,
-        "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MzU5MjQzNjcsImlzcyI6Im1vbmljYSIsInVzZXJfaWQiOjY3MDk4MDMxLCJ1c2VyX25hbWUiOiJUb29sYWJzIiwianRpIjoiMjBkNDllMGM0NzkwNDExODg4NGY5YThjOTZkZGRkMjgiLCJjbGllbnRfdHlwZSI6IndlYiJ9.liMKWLPoaO514omoEFlABV5hpWi-7yBbMlWgXsxkYlE"
+        "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MzYxNjYwMDksImlzcyI6Im1vbmljYSIsInVzZXJfaWQiOjY3NjkwMTQzLCJ1c2VyX25hbWUiOiJUb29sYWJzICIsImp0aSI6IjhhZGQzMjlmOThkMzQxYjc5MTEwNGUxMzcyODdiNzUyIiwiY2xpZW50X3R5cGUiOiJ3ZWIifQ.bkaecvQutXhtdrF4Qr-EqDnfwUxcHkInBJuWX-jAFh0"
     },
     {
         "domain": ".monica.im",
@@ -213,6 +212,6 @@
         "secure": false,
         "session": true,
         "storeId": null,
-        "value": "s_ce3bbc0e51c:1735924369"
+        "value": "s_ce3bbc0e51c:1736166011"
     }
 ]
